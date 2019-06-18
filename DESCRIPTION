@@ -1,0 +1,11 @@
+Package: BermudezyPandoDescriptive
+Type: Package
+Title: Contiene funciones de estadistica descriptiva
+Version: 0.1.0
+Author: Wilmer Bernudez; Brian Pando
+Maintainer: The package maintainer <wilmer.bermudez@unas.edu.pe>
+Description: Para estadistica descriptiva
+    Use four spaces when indenting paragraphs within the Description.
+License: open source
+Encoding: UTF-8
+LazyData: true
