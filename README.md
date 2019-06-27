@@ -8,5 +8,8 @@ library(devtool)
 INSTALACION:
 devtools::install_github('brianpando/bermudezyPandoDescriptive')
 
+CARGAR LIBRERIA:
+library("BermudezyPandoDescriptive")
+
 FUNCIONES:
 assize: calcula la muestra ajustada.
