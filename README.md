@@ -1,4 +1,4 @@
-# bermydezyPandoDescriptive
+# bermudezyPandoDescriptive
 Utilitarios para estadistica descriptiva en R
 Para instalarlo en R o R Studio, debe ejecutar los siguientes comandos.
 
